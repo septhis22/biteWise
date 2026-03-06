@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/septhis22/biteWise#readme",
   "dependencies": {
+    "build": "^0.1.4",
     "dotenv": "^16.6.1",
     "express": "^5.2.1",
     "pg": "^8.20.0"
